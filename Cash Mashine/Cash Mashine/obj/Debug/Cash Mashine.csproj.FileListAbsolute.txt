@@ -1,0 +1,10 @@
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\bin\Debug\Cash Mashine.exe.config
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\bin\Debug\Cash Mashine.exe
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\bin\Debug\Cash Mashine.pdb
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash Mashine.csprojResolveAssemblyReference.cache
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash_Mashine.Form1.resources
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash_Mashine.Properties.Resources.resources
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash Mashine.csproj.GenerateResource.Cache
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash Mashine.exe
+c:\users\maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash Mashine.pdb
+C:\Users\Maros\documents\visual studio 2015\Projects\Cash Mashine\Cash Mashine\obj\Debug\Cash_Mashine.Form3.resources
